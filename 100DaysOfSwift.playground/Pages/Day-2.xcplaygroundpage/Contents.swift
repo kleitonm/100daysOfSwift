@@ -160,3 +160,7 @@ let earth = Planet(rawValue: 2) // irá printar earth
 6 - Enums são uma forma de agrupar valores relacionados para que você possa usá-los sem erros de ortografia.
  
 7 - Você pode anexar valores brutos a enums para que possam ser criados a partir de números inteiros ou strings, ou pode adicionar valores associados para armazenar informações adicionais sobre cada caso.*/
+
+var total = 0
+total = 5 + 4 * 18 / 3 * 3 % 3 - 1
+print(total)
