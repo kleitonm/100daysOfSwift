@@ -213,3 +213,25 @@ print("I've snuffed it!")
 
  8- Os loops infinitos não terminam até que você peça e são feitos usando while true. Certifique-se de ter uma condição em algum lugar para terminar seus loops infinitos!
  */
+
+
+// How to use type annotations - O Swift é capaz de descobrir que tipo de dados uma constante ou variável contém com base no que atribuímos a ela. No entanto, às vezes não queremos atribuir um valor imediatamente, ou às vezes queremos substituir a escolha de tipo do Swift, e é aí que entram as anotações de tipo.
+let username: String
+// lots of complex logic
+username = "@twostraws"
+// lots more complex logic
+print(username)
+
+// Esse código é legal: estamos dizendo usernameque conterá uma string em algum ponto e fornecemos um valor antes de usá-lo. Se a linha de atribuição – username = "@twostraws"– estivesse faltando, o Swift se recusaria a construir nosso código porque usernamenão teria um valor e, da mesma forma, se tentássemos definir um valor para usernameuma segunda vez, o Swift também reclamaria.
+
+// Summary: Complex data
+
+
+// Checkpoint 2
+var weather: [String] = ["Sun", "Rain", "Snow", "Storm"]
+
+print(weather.count)
+
+var music: Set<String> = Set(["Por do SOl", "Lua ed Cristal", "La vem ela", "Pakatu"])
+
+print(music.count)
