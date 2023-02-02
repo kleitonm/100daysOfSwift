@@ -58,8 +58,8 @@ print(root)
 func rollDice() -> Int {
     return Int.random(in: 1...6)
 }
-let result = rollDice()
-print(result)
+let result1 = rollDice()
+print(result1)
 
 //duas strings contêm as mesmas letras, independentemente de sua ordem? Esta função deve aceitar dois parâmetros de string e retornar true se suas letras forem iguais – portanto, “abc” e “cab” devem retornar true porque ambos contêm um “a”, um “b” e um “c”.
 //sorted()qualquer string, receberá uma nova string de volta com todos os letras em ordem alfabética. Portanto, se você fizer isso para ambas as strings, poderá ==compará-las para ver se as letras são iguais.
@@ -234,12 +234,12 @@ let lyric = "I see a red door and I want it painted black"
 print(lyric.hasPrefix("I see"))
 
 
-func isUppercase(string: String) -> Bool {
+func isUppercase1(string: String) -> Bool {
     string == string.uppercased()
 }
 
 let strin = "HELLO, WORLD"
-let result = isUppercase(string: strin)
+let result2 = isUppercase1(string: strin)
 
 
 //Se adicionarmos um sublinhado antes do nome do parâmetro, podemos remover o rótulo do parâmetro externo da seguinte forma:
