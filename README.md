@@ -92,7 +92,103 @@ Authored by:
 </details>
 
 
-## Day 6: Closure
+## Day 7: Closure
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Creating basic closures
+   - Accepting parameters in a closure
+   - Returning values from a closure
+   - Closures as parameters
+   - Trailing closure syntax
+</details>
+
+
+## Day 6: Closures
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Creating basic closures
+   - Accepting parameters in a closure
+   - Returning values from a closure
+   - Closures as parameters
+   - Trailing closure syntax
+</details>
+
+
+## Day 6: Closures
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Creating basic closures
+   - Accepting parameters in a closure
+   - Returning values from a closure
+   - Closures as parameters
+   - Trailing closure syntax
+</details>
+
+
+## Day 6: Closures
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Creating basic closures
+   - Accepting parameters in a closure
+   - Returning values from a closure
+   - Closures as parameters
+   - Trailing closure syntax
+</details>
+
+
+## Day 6: Closures
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Creating basic closures
+   - Accepting parameters in a closure
+   - Returning values from a closure
+   - Closures as parameters
+   - Trailing closure syntax
+</details>
+
+
+## Day 6: Closures
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Creating basic closures
+   - Accepting parameters in a closure
+   - Returning values from a closure
+   - Closures as parameters
+   - Trailing closure syntax
+</details>
+
+
+## Day 6: Closures
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Creating basic closures
+   - Accepting parameters in a closure
+   - Returning values from a closure
+   - Closures as parameters
+   - Trailing closure syntax
+</details>
+
+
+## Day 6: Closures
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Creating basic closures
+   - Accepting parameters in a closure
+   - Returning values from a closure
+   - Closures as parameters
+   - Trailing closure syntax
+</details>
+
+
+## Day 6: Closures
   <details>
   <summary>Click to see the topics!</summary>
   
