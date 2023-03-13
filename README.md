@@ -90,3 +90,16 @@ Authored by:
    - Closures as parameters
    - Trailing closure syntax
 </details>
+
+
+## Day 6: Closure
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Creating basic closures
+   - Accepting parameters in a closure
+   - Returning values from a closure
+   - Closures as parameters
+   - Trailing closure syntax
+</details>
+
